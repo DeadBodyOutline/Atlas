@@ -1,4 +1,4 @@
 Atlas
 =====
 
-Open  Source multiplatform texture atlas
+Open  Source multiplatform texture atlas editor

@@ -15,6 +15,9 @@ public:
     MainWindow(QWidget *parent = 0);
     ~MainWindow();
 
+private slots:
+    void openDialog();
+
 private:
     QGraphicsView *m_view;
     Scene *m_scene;
